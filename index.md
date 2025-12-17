@@ -3,7 +3,7 @@
 ## <font color=DeepSkyBlue size=5 face="黑体"> Jan. 02-04, 2025 </font>
 
 
-Haibao Duan received his B.Sc. and M.Sc. degrees from Jilin University (1977–1985) and his Ph.D. from Peking University (1987), under the supervision of Boju Jiang. He served as Associate Professor (1991–1995) and Professor (1995–2001) at Peking University, and later as Research Professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences (2001–2016). 
+Haibao Duan served as Associate Professor (1991–1995) and Professor (1995–2001) at Peking University, and later as Professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences (2001–2021).
 
 Duan established the Multiplication Rules of Schubert Varieties and, jointly with Xuzhi Zhao, resolved the Characteristic Numbers Problem and the Weil Problem—central problems of Hilbert’s 15th problem.
 
