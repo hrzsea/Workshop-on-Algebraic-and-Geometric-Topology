@@ -21,7 +21,7 @@ Duan established the Multiplication Rules of Schubert Classes and, jointly with 
 
 [Zhi Lv (Fudan University)](), 
 
-[Shicheng Wang (Peking University](), 
+[Shicheng Wang (Peking University)](), 
 
 [Jie Wu (BIMSA)](https://bimsa.net/people/jiewu/), 
 
