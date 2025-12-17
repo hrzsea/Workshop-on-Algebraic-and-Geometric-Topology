@@ -1,6 +1,6 @@
 # Workshop on Algebraic and Geometric Topology
 ## in Celebration of Haibao Duan’s 70th Birthday
-## <font color=DeepSkyBlue size=5 face="黑体"> Jan. 02-04, 2025 </font>
+## <font color=DeepSkyBlue size=5 face="黑体"> Jan. 02-04, 2026 </font>
 
 
 Haibao Duan served as Associate Professor (1991–1995) and Professor (1995–2001) at Peking University, and later as Professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences (2001–2021).
