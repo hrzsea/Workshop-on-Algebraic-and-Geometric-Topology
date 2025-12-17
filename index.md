@@ -5,14 +5,14 @@
 
 Haibao Duan served as Associate Professor (1991–1995) and Professor (1995–2001) at Peking University, and later as Professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences (2001–2021).
 
-Duan established the Multiplication Rules of Schubert Varieties and, jointly with Xuzhi Zhao, resolved the Characteristic Numbers Problem and the Weil Problem—central problems of Hilbert’s 15th problem.
+Duan established the Multiplication Rules of Schubert Classes and, jointly with Xuzhi Zhao, resolved Schubert's Problem of Characteristics and Weil's Problem—central problems of Hilbert’s 15th problem.
 
 
 ### Organizers: 
 
 [Ruizhi Huang](https://sites.google.com/site/hrzsea/), [Ping Li](https://sites.google.com/view/pinglimath), [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html)
 
-### Place: [**MCM 110**](#Map)     
+### Place: N219     
 
 ### Speakers: 
 
@@ -124,8 +124,5 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-### **<span id="Map">Map</span>**  
-
-![map](https://raw.githubusercontent.com/hrzsea/Unstable-Homotopy-Forum-2025/gh-pages/map.png)
 
 
