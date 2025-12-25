@@ -40,11 +40,11 @@ Duan established the Multiplication Rules of Schubert Classes and, jointly with 
 
 |                             |       Jan. 3, Sat               |    Jan. 4, Sun                       |            
 | ----------------------------|----------------------------------|-------------------------------------  |
-|            9:30 - 10:15     |   [**Jie Wu**](#Jie Wu)          |    [**Huijun Yang**](#Huijun Yang)   | 
+|            9:30 - 10:15     |   [**Jie Wu**](#Jie Wu)          |     [**Xuezhi Zhao**](#Xuezhi Zhao) | 
 |  |  
 |          10:15 - 10:45      |  Tea Break                       |
 |  |     
-|          10:45 - 11:30      |  [**Zhi Lv**](#Zhi Lv)           |       [**Xuezhi Zhao**](#Xuezhi Zhao)        | 
+|          10:45 - 11:30      |  [**Zhi Lv**](#Zhi Lv)           |     [**Huijun Yang**](#Huijun Yang)     | 
 |  |
 |            11:30-14:30      |        Lunch Time                |
 |  |               
