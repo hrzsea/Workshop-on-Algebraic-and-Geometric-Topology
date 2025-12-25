@@ -53,7 +53,6 @@ Duan established the Multiplication Rules of Schubert Classes and, jointly with 
 |          15:15 - 15:45      |     Tea Break                    |
 |  |  
 |          15:45 - 16:30      |  [**Xuan Zhao**](#Xuan Zhao)           |   |     
-
 |          16:30 - 17:00      |     Tea Break                    |
 |  |  
 |          17:00 - 17:45     |    [**Shicheng Wang**](#Shicheng Wang)     |   |     
