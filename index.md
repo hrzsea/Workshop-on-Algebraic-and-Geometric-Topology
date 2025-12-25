@@ -65,7 +65,7 @@ Duan established the Multiplication Rules of Schubert Classes and, jointly with 
 
 - **<span id="Yi Jiang">Yi Jiang</span>**  
 
-Title:
+Title: 高连通奇数维流形上的自由圆周群作用
 
 Abstract: 
 
@@ -81,7 +81,7 @@ Abstract:
 
 - **<span id="Shicheng Wang">Shicheng Wang</span>**  
 
-Title: 
+Title: 3维流形的伸展指数，躺平映射，机器人堆积
 
 
 Abstract: 
@@ -92,7 +92,7 @@ Abstract:
 
 - **<span id="Jie Wu">Jie Wu</span>**  
 
-Title: 
+Title: Some recent progress in the Chinese school of Topology---in honor of Professor Haibao Duan
 
 Abstract: 
 
@@ -101,7 +101,7 @@ Abstract:
 
 - **<span id="Huijun Yang">Huijun Yang</span>**  
 
-Title: 
+Title: A Bilinear Form for Spin^c Manifolds
 
 Abstract:
 
@@ -118,7 +118,7 @@ Abstract:
 
 - **<span id="Xuezhi Zhao">Xuezhi Zhao</span>**  
 
-Title: 
+Title: 自映射不动点与周期点的个数估计
 
 Abstract:
 
