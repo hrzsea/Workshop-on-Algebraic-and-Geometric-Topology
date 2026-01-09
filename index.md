@@ -53,6 +53,7 @@ Duan established the Multiplication Rules of Schubert Classes and, jointly with 
 |          15:15 - 15:45      |     Tea Break                    |
 |  |  
 |          15:45 - 16:30      |  [**Xuan Zhao**](#Xuan Zhao)           |   |     
+|  |  
 |          16:30 - 17:00      |     Tea Break                    |
 |  |  
 |          17:00 - 17:45     |    [**Shicheng Wang**](#Shicheng Wang)     |   |     
@@ -117,7 +118,7 @@ work of Landweber and Stong from spin to spinc manifolds. As an application, let
 
 Title: Endomorphisms of the cohomology rings of Lie groups
 
-Abstract: 设𝐺为紧单连通李群，我们有 Boardman 映射𝐵: [𝐺, 𝐺] → 𝐻𝑜𝑚1𝐻∗(𝐺), 𝐻∗(𝐺)4。为了 理解它的像集，我们利用复拓扑 K-理论，及联系 K-理论和奇异同调的 Chern 特征，给出了 映射𝐵的像的一个逼近。
+Abstract: 设𝐺为紧单连通李群，我们有 Boardman 映射𝐵: [𝐺, 𝐺] → 𝐻𝑜𝑚1𝐻∗(𝐺), 𝐻∗(𝐺)4。为了 理解它的像集，我们利用复拓扑 K-理论，及联系 K-理论和奇异同调的Chern特征，给出了 映射𝐵的像的一个逼近。
 
 -------------------------------------------------------------------------------------------
 
@@ -126,7 +127,7 @@ Abstract: 设𝐺为紧单连通李群，我们有 Boardman 映射𝐵: [𝐺, �
 
 Title: 自映射不动点与周期点的个数估计
 
-Abstract: 我们介绍，在自映射的不动点与周期点的估计中，基本群与同调群所起的作用。做 为一个例子，我们介绍近期的研究结果:基本群为有限循环群的拓扑空间中，周期点估计 量的计算。
+Abstract: 我们介绍，在自映射的不动点与周期点的估计中，基本群与同调群所起的作用。做为一个例子，我们介绍近期的研究结果：基本群为有限循环群的拓扑空间中，周期点估计量的计算。
 
 -------------------------------------------------------------------------------------------
 
